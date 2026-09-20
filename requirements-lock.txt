@@ -1,0 +1,9 @@
+# Direct dependencies imported by feature_engineering_research.ipynb and notebook.ipynb.
+# Tested with Python 3.12.2. Install from the project root.
+catboost==1.2.10
+matplotlib==3.11.2
+numpy==2.5.3
+pandas==2.3.3
+scikit-learn==1.9.1
+seaborn==0.13.2
+shap==0.52.0
