@@ -1,4 +1,4 @@
-# Bot_detection_problem
+# Bot_detection_problem_Avito
 
 - `solution.ipynb` - итоговый pipeline обучения и получения предсказаний.
 - `feature_engineering_research.ipynb` - эксперименты по генерации и отбору признаков.
