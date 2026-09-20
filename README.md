@@ -1,6 +1,6 @@
 # Bot_detection_problem_Avito
 
-- `solution.ipynb` - итоговый pipeline обучения и получения предсказаний.
+- `solution.ipynb` - итоговый пайплайн обучения и получения предсказаний.
 - `feature_engineering_research.ipynb` - эксперименты по генерации и отбору признаков.
 - `requirements_lock.txt` - зафиксированные версии зависимостей.
 - `data` - папка с train.csv , test.csv и events.csv
